@@ -23,33 +23,7 @@ This project demonstrates how to use Nmap to scan a local network and Wireshark 
 
 ## Screenshots
 - Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)
-- Nmap command in action:
-  ![Nmap Scan](screenshots/nmap_scan.png)   
+  ![Nmap Scan](https://github.com/TechFella1024/Network-Scanning-and-Analysis-/blob/main/nmap14.png) 
 - Wireshark capture analysis:
   ![Wireshark Analysis](https://github.com/TechFella1024/Network-Scanning-and-Analysis-/blob/main/Wireshark%20capture%20analysis.png)
 
