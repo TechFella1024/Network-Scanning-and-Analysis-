@@ -19,8 +19,7 @@ This project demonstrates how to use Nmap to scan a local network and Wireshark 
 
 - **Wireshark Traffic Analysis**:
   - Captured Nmap scan traffic.
-  - Exported capture: ## Results
-- [Wireshark Capture File: nmap_scan_traffic.pcap](results/nmap_scan_traffic.pcap)
+  - Exported capture: [Wireshark Capture File: nmap_scan_traffic.pcap](results/nmap_scan_traffic.pcap)
 
 ## Screenshots
 - Nmap command in action:
