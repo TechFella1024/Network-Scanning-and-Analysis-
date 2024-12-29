@@ -15,11 +15,11 @@ This project demonstrates how to use Nmap to scan a local network and Wireshark 
 ## Results
 - **Nmap Scan**:
   - Identified open ports and running services on active devices.
-  - Exported results: [Nmap Scan Results](https://github.com/TechFella1024/Network-Scanning-and-Analysis-/blob/main/nmap_scan_traffic.pcap)
+  - Exported results: [Nmap Scan Results](https://github.com/TechFella1024/NmapScanResults)
 
 - **Wireshark Traffic Analysis**:
   - Captured Nmap scan traffic.
-  - Exported capture: [Nmap Traffic Capture](results/nmap_scan_traffic.pcap)
+  - Exported capture: [Nmap Traffic Capture](https://github.com/TechFella1024/Network-Scanning-and-Analysis-/blob/main/nmap_scan_traffic.pcap)
 
 ## Screenshots
 - Nmap command in action:
